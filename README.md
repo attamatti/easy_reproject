@@ -1,4 +1,4 @@
-USAGE: reproject.py <input mrc or pdb> <pixelsize>
+USAGE: reproject.py &lt;input mrc or pdb&gt; &lt;pixelsize&gt;
 
 outputs: 
 a stack of reprojections un .mrcs format
